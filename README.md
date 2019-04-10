@@ -3,7 +3,6 @@ CNN based food recognition using Keras in Python and Shiny package in R.
 
 Working Project on https://samyakjain.shinyapps.io/FoodRecog/
 
-Project in collabration with https://github.com/uday97
 
 ### ABSTRACT
 
@@ -44,14 +43,6 @@ The last layer is the output layer consisting of 15 neurons equivalent to the nu
 By the application of various machine learning algorithms (Support Vector Machines, K-Nearest Neighbour, Random Forest Classification) and deep learning algorithm(Convolutional Neural Networks) on the image classification problem, it is concluded that CNN is the most viable method for the image classification on our dataset in terms of both speed and accuracy and that CNN performs best in the cases of large datasets.
 The accuracy obtained on training set is 86% and on the test set is 80%
 
-## ScreenShots
-
-#### Before Uploading
-![alt text](https://github.com/samyak74/Food-Recognition/blob/master/Before%20Uploading.png)
-#### After Uploading
-![alt text](https://github.com/samyak74/Food-Recognition/blob/master/After%20uploading.png)
-#### Predict Image
-![alt text](https://github.com/samyak74/Food-Recognition/blob/master/Predict%20Image.png)
 
 
 ### FUTURE  WORK  SCOPE
